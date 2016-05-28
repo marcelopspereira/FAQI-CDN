@@ -1,0 +1,2 @@
+# FAQI-CDN
+CDN
